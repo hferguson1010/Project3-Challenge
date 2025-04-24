@@ -1,0 +1,6 @@
+requestsflask
+redis
+matplotlib
+flask
+requests
+pygal
